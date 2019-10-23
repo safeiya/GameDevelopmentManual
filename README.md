@@ -29,6 +29,8 @@
   - 雨松的Unity研究院：https://www.xuanyusong.com/
   - 傅老师：https://space.bilibili.com/211153830
   - Shallot夏洛特：https://space.bilibili.com/28562838
+- safeiya推荐
+  - unity制作教学2D横版过关类游戏的入门教学系列视频：https://space.bilibili.com/370283072  
 - 工具推荐(下载请找度娘)
   - Snipaste：非常好的截图工具F1就可以截图，再按下F3就可以悬浮并置顶接下来的图片！
   - TortoiseSVN：运用最广泛的SVN仓库管理工具，再加个服务可以当作网盘使用哦，比网盘方便，可以版本回滚~
