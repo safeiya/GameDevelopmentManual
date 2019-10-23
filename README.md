@@ -1,1 +1,38 @@
-# -
+# 游戏开发之路食用指南 2019.10.23ver
+## 开始
+- 程序：选择一个游戏引擎、学习并入门引擎支持的编程语言。要做什么类型的游戏，就改类型学习工程示例Demo。
+- 美术：选择一个绘画、图片处理工具，有条件一定要买一个数位板。锻炼绘画功底，学习一些项目规范。
+- 策划：学会程序或者美术二选一入门之后转策划，这样才能在项目中有话语权。美术偏文案方面，程序偏玩法放面。
+## 资料
+- 视频资源网站
+  - bilibili：https://www.bilibili.com/
+  - 腾讯课堂：https://ke.qq.com/
+  - 慕课：https://class.imooc.com/
+  - 泰课：https://www.taikr.com/
+  - 百度传课：https://chuanke.baidu.com/
+- 社区
+  - 奶牛关：https://cowlevel.net/question
+  - csdn：https://www.csdn.net/
+  - Unity官方社区：https://connect.unity.com/
+  - UE4国内社区：http://www.gamesoho.net/
+  - GitHub：https://github.com/
+- 资源参考
+  - 花瓣：https://huaban.com/
+  - P站(要翻墙)：https://www.pixiv.net
+- 群
+  - Unity官方：629212643
+  - 傅老师的游戏设计：970406414
+- 秋雨之忆推荐
+  - 他的csdn博客：https://blog.csdn.net/qq_36633019
+  - 他的b站空间(收藏夹有整理游戏开发的视频)：https://space.bilibili.com/2557971
+  - 【Unity】一些免费的2D游戏模板：https://blog.csdn.net/qq_36633019/article/details/102599043
+  - 雨松的Unity研究院：https://www.xuanyusong.com/
+  - 傅老师：https://space.bilibili.com/211153830
+  - Shallot夏洛特：https://space.bilibili.com/28562838
+- 工具推荐(下载请找度娘)
+  - Snipaste：非常好的截图工具F1就可以截图，再按下F3就可以悬浮并置顶接下来的图片！
+  - TortoiseSVN：运用最广泛的SVN仓库管理工具，再加个服务可以当作网盘使用哦，比网盘方便，可以版本回滚~
+  - 腾讯云开发者平台(coding)：可以白嫖的git、svn仓库！
+## 交流
+
+## 结语
